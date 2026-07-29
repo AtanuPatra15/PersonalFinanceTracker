@@ -89,6 +89,6 @@ The database design is available in **ER_Diagram.png**.
 
 ---
 
-## 📄 License
+## 📄 NOTE
 
 This project was developed for educational and internship purposes.
